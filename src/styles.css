@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.base-container {
+  text-align: center;
+}
+
+
+.name-container {
+  color: black;
+  font-size: 250%;
+  margin-top: 3%;
+  font-family: 'Courier New', Courier, monospace;
+}
